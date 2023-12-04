@@ -1,0 +1,1 @@
+# Anime Web Next 14, TypeScript & Tailwind
